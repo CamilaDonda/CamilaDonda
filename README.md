@@ -2,8 +2,11 @@
 
 ==================================
 
+Hey guys, I am a highly passionate and self-disciplined full-stack web developer in progress 👩‍🎓. There is probably nothing more exciting for me than to realize that "Ahaa moment" whenever I can figure out the solution to some interesting problems that I come across during building different projects 💻 . I am currently enrolled at [Labenu](http://www.labenu.com.br) to soon become a full stack web developer. I always enjoy meeting new people and hearing about their perspective about how different things work. 🤓
+
+==================================
 👩‍💻 Languages</br> </br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> < img src =" 
 
 ================================== </br>
 📱 Contact
